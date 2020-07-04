@@ -18,9 +18,8 @@ function setup() {
 	var c_green = 0;
 	var c_blue = 0;
 //******************************//
-
 	var i = 0; //counter for changing the colour of ellipse//
-
+//***********************//
 function draw() {
 //Code to change colour of ellipse after every 20 frames//
 	if(i<=19)
